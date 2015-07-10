@@ -6,5 +6,7 @@ int main()
 	double b, c;
 
 	c = a +b;
+
+	float d;
 	return 0;
 }
