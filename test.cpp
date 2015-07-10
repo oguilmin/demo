@@ -8,5 +8,10 @@ int main()
 	c = a +b;
 
 	float d;
+	char car;
+	car = 'a';
 	return 0;
 }
+
+
+	
