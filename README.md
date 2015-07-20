@@ -1,3 +1,3 @@
-README
-
-Test of the use of github
+	README
+===============
+Use test of github
